@@ -1,7 +1,9 @@
 # Financials
 The Financials.pdf file is a time series chart to better visualize the Profit After Tax and Operating Profit of a company. The financials were initiailly in a CSV file that was imported into Tableau.
 
-Below is a link to a dashboard I created to assist with visualizing the industry market share for a CAPSIM project. The financial data was in a CSV file that was imported into Tableau for further analysis.
+The Ratio Comparison.pdf file was an analysis of yearly financial margins on Pfizer, Moderna, and Astra Zeneca.
+
+Below is a link to a dashboard I created to assist with visualizing the industry market share for a CAPSIM project. The financial data was in an Excel file that was imported into Tableau for further analysis.
 https://public.tableau.com/app/profile/samuel.munguia/viz/CAPSIMMarketShare/Dashboard1
 
 Industry market share of the following companies Andrews, Baldwin, Chester, Digby, and Ferris per round (year). 
