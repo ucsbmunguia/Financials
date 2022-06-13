@@ -7,4 +7,4 @@ Below is a link to a dashboard I created to assist with visualizing the industry
 https://public.tableau.com/app/profile/samuel.munguia/viz/CAPSIMMarketShare/Dashboard1
 
 Industry market share of the following companies Andrews, Baldwin, Chester, Digby, and Ferris per round (year). 
-The dashboard can be filtered by company and round. When filtering it may require a few seconds for the dashboard to execute the applied filters.
+The dashboard can be filtered by company and round. Filtering by round will filter the bar charts located on the right side of the dashboard. When filtering it may require a few seconds for the dashboard to execute the applied filters.
